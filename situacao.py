@@ -6,4 +6,4 @@ def situacao(m):
     Ex.: situacao(60) -> "Aprovado"
     """
     # complete aqui: troque o return "?" pelo if
-    return "?"
+    return "Aprovado" if m >= 60 else "Reprovado"
