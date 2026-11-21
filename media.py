@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Wilton Lucas C. Costa
 
 def media(n1, n2):
     """Devolve a media aritmetica das duas notas.
@@ -6,3 +6,4 @@ def media(n1, n2):
     """
     # complete aqui: troque o return 0 pelo calculo
     return 0
+
