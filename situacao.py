@@ -1,4 +1,4 @@
-# Autor:
+# Autor: Renan Augusto C. da Silva
 
 def situacao(m):
     """Devolve "Aprovado" se a media for 60 ou mais;
